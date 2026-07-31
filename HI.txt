@@ -1,0 +1,2 @@
+ & c:\Users\Oliver\Robot\.venv\Scripts\Activate.ps1
+fjaeijaif
